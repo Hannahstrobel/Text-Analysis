@@ -34,3 +34,5 @@ devtools::load_all()
 
 # Document the package
 devtools::document()
+
+
